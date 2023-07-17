@@ -1,0 +1,23 @@
+# This is a Serverless API for Mimesis.
+
+Build it by doing
+
+    sam build
+
+Deploy it by doing
+
+    sam deploy
+
+Run it locally by going to src/ directory and doing
+
+    uvicorn main:app --reload
+
+## Architecture
+
+## URL
+
+https://cdyt75xvdl.execute-api.us-east-1.amazonaws.com/
+
+## Documentation
+
+Swagger: https://cdyt75xvdl.execute-api.us-east-1.amazonaws.com/docs
